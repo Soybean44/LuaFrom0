@@ -14,3 +14,4 @@ Please point your favorite browser to:
 
  doc/luajit.html
 
+This project is an attempt to make luajit index by 0 instead of by 1
